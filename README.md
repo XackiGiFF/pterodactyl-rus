@@ -5,11 +5,9 @@
 ![GitHub Releases](https://img.shields.io/github/downloads/pterodactyl/panel/latest/total?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/pterodactyl/panel?style=for-the-badge)
 
-# Pterodactyl Panel
+# Панель Pterodactyl
 
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security 
-in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive
-UI to end users.
+Pterodactyl® Это бесплатное программное обеспечение с открытым исходным кодом, панель управления игровыми серверами разработана на базе game server management PHP, React, и Go. Разработанный с учётом требований безопасности, Pterodactyl запускает все игровые сервера в изолированных Docker контейнерах предоставляя конечным пользователям красивый и интуитивно понятный пользовательский интерфейс.
 
 Stop settling for less. Make game servers a first class citizen on your platform.
 
