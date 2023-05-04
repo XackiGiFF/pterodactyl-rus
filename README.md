@@ -9,7 +9,7 @@
 
 Pterodactyl® Это бесплатное программное обеспечение с открытым исходным кодом, панель управления игровыми серверами разработана на базе game server management PHP, React, и Go. Разработанный с учётом требований безопасности, Pterodactyl запускает все игровые сервера в изолированных Docker контейнерах предоставляя конечным пользователям красивый и интуитивно понятный пользовательский интерфейс.
 
-Stop settling for less. Make game servers a first class citizen on your platform.
+Не ограничивайте себя. Создайте первокласный игровой сервер Make game servers a first class citizen on your platform.
 
 ![Image](https://cdn.pterodactyl.io/site-assets/pterodactyl_v1_demo.gif)
 
