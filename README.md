@@ -22,10 +22,10 @@ Pterodactyl® Это бесплатное программное обеспеч�
 
 ## Спонсоры
 
-I would like to extend my sincere thanks to the following sponsors for helping fund Pterodactyl's developement.
-[Interested in becoming a sponsor?](https://github.com/sponsors/matthewpi)
+Выражаем скреннюю благодарность спонсорам за помощь в финансировании разработки
+[Хотите стать спонсором?](https://github.com/sponsors/matthewpi)
 
-| Company                                                   | About                                                                                                                                                                                                                           |
+| Компания                                                   | Описание                                                                                                                                                                                                                           |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**WISP**](https://wisp.gg)                               | Extra features.                                                                                                                                                                                                                 |
 | [**Aussie Server Hosts**](https://aussieserverhosts.com/) | No frills Australian Owned and operated High Performance Server hosting for some of the most demanding games serving Australia and New Zealand.                                                                                 |
