@@ -18,7 +18,7 @@ Pterodactyl® Это бесплатное программное обеспеч�
 * [Документация на панель](https://pterodactyl.io/panel/1.0/getting_started.html)
 * [Wings Документация](https://pterodactyl.io/wings/1.0/installing.html)
 * [Документация от сообщества](https://pterodactyl.io/community/about.html)
-* Или обратитесь к дополнительной помощи [via Discord](https://discord.gg/pterodactyl)
+* Или обратитесь к дополнительной помощи [в Discord](https://discord.gg/pterodactyl)
 
 ## Спонсоры
 
